@@ -3,7 +3,7 @@ echo ==============================================
 echo 🌿 Starting Solace Mental Health Journal 🌿
 echo ==============================================
 
-cd backend
+cd ..\backend
 
 if not exist "venv" (
     echo Creating Python virtual environment...
