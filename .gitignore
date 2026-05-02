@@ -11,6 +11,9 @@ solace.db
 *.sqlite3
 *.db
 
+# ChromaDB local vector data
+backend/chroma_data/
+
 # OS generated files
 .DS_Store
 .DS_Store?

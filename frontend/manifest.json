@@ -1,0 +1,21 @@
+{
+  "name": "Solace Mental Health Journal",
+  "short_name": "Solace",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#050a0a",
+  "theme_color": "#050a0a",
+  "description": "Your private, AI-powered mental health journaling space.",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Leaf_icon_15.svg/1024px-Leaf_icon_15.svg.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Leaf_icon_15.svg/1024px-Leaf_icon_15.svg.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
